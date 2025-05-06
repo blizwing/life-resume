@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/life-resume/static/css/main.28b0bc0d.css",
+    "main.js": "/life-resume/static/js/main.c7fe4aa4.js",
+    "index.html": "/life-resume/index.html",
+    "main.28b0bc0d.css.map": "/life-resume/static/css/main.28b0bc0d.css.map",
+    "main.c7fe4aa4.js.map": "/life-resume/static/js/main.c7fe4aa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28b0bc0d.css",
+    "static/js/main.c7fe4aa4.js"
+  ]
+}
