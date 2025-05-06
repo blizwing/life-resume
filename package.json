@@ -2,7 +2,7 @@
   "name": "life-resume",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://your-username.github.io/life-resume",
+  "homepage": "https://blizwing.github.io/life-resume",
   "dependencies": {
     "autoprefixer": "^10.4.0",
     "gh-pages": "^5.0.0",
